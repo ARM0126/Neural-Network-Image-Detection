@@ -1,2 +1,2 @@
 # Neural-Network-Image-Detection
-Python notebooks for Deep Neural Network course by Andrew Ng (deeplearning.ai)
+My python notebooks project as part of Deep Neural Network course taught by Andrew Ng (deeplearning.ai) in early 2021
